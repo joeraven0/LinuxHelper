@@ -1,3 +1,7 @@
+# Disk management
+
+## General commands
+
 ### List disks
 
 ```
